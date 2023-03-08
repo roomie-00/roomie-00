@@ -21,12 +21,12 @@
 
 <div align=center><h3>💻 Current Learning 💻</h3>
 <div align=center> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
 
 <div align=center> 
@@ -39,9 +39,12 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+</div>
+
+<div align=center>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
 </div>
 
 <div align=center>
