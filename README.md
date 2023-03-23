@@ -8,11 +8,7 @@
         src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:ocar1115.shin@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4">
-    <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://roomie-00.notion.site/029224d21f9a4ebbaed76ed2eca4d349"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 </div>
 👩‍🎓 UNIV. : SOOKMYUNG W.UNIVERSITY.<br>
   💻 Major : IT engineering<br>
