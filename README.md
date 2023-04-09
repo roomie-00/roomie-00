@@ -54,12 +54,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roomie00&layout=compact&theme=nightowl)](https://github.com/roomie00/roomie00)
 
 
-<div align=center><h3>👩🏻‍💻 Github status 👩🏻‍💻</h3>
-
-[![roomie's GitHub stats](https://github-readme-stats.vercel.app/api?username=roomie00&theme=nightowl&ount_private=true)](https://github.com/roomie00/github-readme-stats)
-
-</div>
-
 <!--
 **roomie00/roomie00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
